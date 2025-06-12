@@ -1,6 +1,6 @@
 # Grow In CS 👨‍💻👨‍💻
 
-혼자 공부하기에는 동기 부여가 너무 안되는 것 같아 시작한, 추후 면접을 대비하여 CS를 공부하는 스터디
+혼자 공부하기에는 동기 부여가 너무 안되는 것 같아 시작한, 추후 면접을 대비하여 CS를 공부하는 스터디 !!
 
 * [스터디 방식](#------)
   + [최종적인 트리 모습](#----------)
@@ -344,9 +344,9 @@ https://github.com/jobhope/TechnicalNote
 ---
 ## 참여자
 
-|<a href="https://github.com/yeonna18k">강나연</a>|<a href="https://github.com/20massalia">이지인</a>|<a href="https://github.com/BHC-Chicken">박현철</a>|<a href="https://github.com/doma17">곽병민</a>|<a href="https://github.com/X1n9fU">김민경</a>|
-|------|---|---|---|---|
-|<img src="https://github.com/yeonna18k.png" width="150px;" alt="강나연 프로필"/>|<img src="https://github.com/20massalia.png" width="150px;" alt="이지인 프로필"/>|<img src="https://github.com/BHC-Chicken.png" width="150px;" alt="박현철 프로필"/>|<img src="https://github.com/doma17.png" width="150px;" alt="곽병민 프로필"/>|<img src="https://github.com/X1n9fU.png" width="150px;" alt="김민경 프로필"/>|
+|<a href="https://github.com/yeonna18k">강나연</a>|<a href="https://github.com/20massalia">이지인</a>|<a href="https://github.com/BHC-Chicken">박현철</a>|<a href="https://github.com/doma17">곽병민</a>|<a href="https://github.com/X1n9fU">김민경</a>|<a href="https://github.com/Minkey99">이진형</a>|
+|------|---|---|---|---|---|
+|<img src="https://github.com/yeonna18k.png" width="150px;" alt="강나연 프로필"/>|<img src="https://github.com/20massalia.png" width="150px;" alt="이지인 프로필"/>|<img src="https://github.com/BHC-Chicken.png" width="150px;" alt="박현철 프로필"/>|<img src="https://github.com/doma17.png" width="150px;" alt="곽병민 프로필"/>|<img src="https://github.com/X1n9fU.png" width="150px;" alt="김민경 프로필"/>|<img src="https://github.com/Minkey99.png" width="150px;" alt="이진형 프로필"/>|
 
 
 
