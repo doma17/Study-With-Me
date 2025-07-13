@@ -94,3 +94,12 @@ OSI 모델은 컴퓨터 네트워킹의 범용 언어로 볼 수 있으며, 이 
 애플리케이션 계층은 **소프트웨어가 사용자에게 의미 있는 데이터를 제공하기 위해 의존하는 프로토콜과 데이터를 조작하는 역할**을 합니다.
 
 대표적으로 **HTTP, SMTP, FTP** 등의 프로토콜이 이에 해당합니다.
+
+<br/>
+<br/>
+
+> 참고
+>
+> - https://www.cloudflare.com/ko-kr/learning/ddos/glossary/open-systems-interconnection-model-osi/
+> - https://inpa.tistory.com/entry/WEB-%F0%9F%8C%90-OSI-7%EA%B3%84%EC%B8%B5-%EC%A0%95%EB%A6%AC
+> - https://aws.amazon.com/ko/what-is/osi-model/
